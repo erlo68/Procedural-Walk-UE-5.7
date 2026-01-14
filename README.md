@@ -6,5 +6,5 @@ This only concerns leg animations, but the knowledge and procedures can be appli
 
 Your milage may vary depending on quality of the mesh/skeleton, fine tune settings in the leg component, and general settings concerning movement.
 
-Here is a YT-Tutorial on how to use the components:
+Here is a YT-Tutorial on how to use the components (a bit outdated, i may update... maybe):
 https://www.youtube.com/watch?v=PpPudgwqsSA
