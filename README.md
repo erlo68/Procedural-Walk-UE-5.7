@@ -1,4 +1,4 @@
-# Procedural-Walk-UE-5.4
+# Procedural-Walk-UE-5.7
 
 This is a small project which teaches one of the ways to create procedural animations.
 It utilizes the IK-Rig for calculation and animation.
