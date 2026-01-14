@@ -1,0 +1,5 @@
+[20580:20372:0113/233408.620:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20580:13032:0113/233408.660:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[20580:20372:0113/233408.670:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[20580:20372:0113/233411.069:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[20580:20372:0114/015710.272:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
