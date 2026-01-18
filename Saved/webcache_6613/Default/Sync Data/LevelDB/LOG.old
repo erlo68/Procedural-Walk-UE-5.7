@@ -1,2 +1,3 @@
-2026/01/13-16:07:31.943 6c8 Creating DB C:\Users\erlo6\Documents\Unreal Projects\Procedural_Walk 5.4 5.7\Saved\webcache_6613\Default\Sync Data\LevelDB since it was missing.
-2026/01/13-16:07:31.960 6c8 Reusing MANIFEST C:\Users\erlo6\Documents\Unreal Projects\Procedural_Walk 5.4 5.7\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/18-16:32:23.403 4d70 Reusing MANIFEST C:\Users\erlo6\Documents\Unreal Projects\Procedural_Walk 5.4 5.7\Saved\webcache_6613\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/01/18-16:32:23.404 4d70 Recovering log #3
+2026/01/18-16:32:23.404 4d70 Reusing old log C:\Users\erlo6\Documents\Unreal Projects\Procedural_Walk 5.4 5.7\Saved\webcache_6613\Default\Sync Data\LevelDB/000003.log 
